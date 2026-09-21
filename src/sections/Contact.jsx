@@ -56,7 +56,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="text-sm font-semibold text-slate-500 dark:text-slate-400">Phone</h4>
-                  <p className="text-slate-900 dark:text-white font-medium">+91 98765 43210</p>
+                  <p className="text-slate-900 dark:text-white font-medium">+91 7249573686</p>
                 </div>
               </div>
               <div className="flex items-center gap-4">

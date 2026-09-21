@@ -2,9 +2,9 @@ import React from 'react';
 import { Award } from 'lucide-react';
 
 const certs = [
-  { name: "Oracle Certified Associate, Java SE 8 Programmer", issuer: "Oracle" },
-  { name: "AWS Certified Developer - Associate", issuer: "Amazon Web Services" },
-  { name: "React - The Complete Guide", issuer: "Udemy" }
+  { name: "Java Full Stack Developer", issuer: "S2P" },
+  { name: "React - The Complete Guide", issuer: "Udemy" },
+  { name: "Speakathon for Limca Book of record", issuer: "GHRCE" }
 ];
 
 export default function Certifications() {
